@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Chethan Kumar</h1>
-<h3 align="center">I'm a Full Stack Engineer with expertise in Mongoose, MySql, Express, React, Next.js, and Node.js. I have strong knowledge in REST API design, database schema design, and Mongoose data modeling. Currently, I’m expanding my skill set by learning AWS, Docker, and Kubernetes, aiming to become a well-rounded and versatile engineer capable of building and scaling modern applications.</h3>
+<h3 align="center">I'm a Full Stack Engineer with expertise in Javscript, Mongoose, MySql, Express, React, Next.js, and Node.js. I have strong knowledge in REST API design, database schema design, and Mongoose data modeling. Currently, I’m expanding my skill set by learning AWS, Docker, and Kubernetes, aiming to become a well-rounded and versatile engineer capable of building and scaling modern applications.</h3>
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxX7_Ev-covtz3WMKiJG15H4nhC5R4FX53g&s" alt="coding" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan-kumar-fse&label=Profile%20views&color=0e75b6&style=flat" alt="chethan-kumar-fse" /> </p>
